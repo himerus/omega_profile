@@ -71,8 +71,7 @@ function omega_profile_install() {
   // Enable the admin theme.
   \Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save(TRUE);
 
-  // Enable and set omega_starterkit as default theme.
+  // Enable and set omega as default theme.
   \Drupal::service('theme_installer')->install(array('omega'), TRUE);
-  \Drupal::service('theme_installer')->install(array('omega_starterkit'), TRUE);
-  \Drupal::configFactory()->getEditable('system.theme')->set('default', 'omega_starterkit')->save(TRUE);
+  \Drupal::configFactory()->getEditable('system.theme')->set('default', 'omega')->save(TRUE);
 }

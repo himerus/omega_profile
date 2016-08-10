@@ -39,12 +39,13 @@ dependencies:
   - tour
   - automated_cron
   - admin_toolbar
-  - ctools
+  - admin_toolbar_tools
   - layout_plugin
-  - page_manager
-  - panelizer
-  - panels
+  #- page_manager
+  #- page_manager_ui
+  #- panelizer
+  #- panels
+  #- panels_ipe
 themes:
   - omega
-  - omega_starterkit
   - seven
