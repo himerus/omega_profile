@@ -38,14 +38,16 @@ dependencies:
   - views_ui
   - tour
   - automated_cron
+  - telephone
+  - omega_tools
   - admin_toolbar
   - admin_toolbar_tools
   - layout_plugin
-  #- page_manager
-  #- page_manager_ui
+  - page_manager
+  - page_manager_ui
   #- panelizer
-  #- panels
-  #- panels_ipe
+  - panels
+  - panels_ipe
 themes:
   - omega
   - seven
