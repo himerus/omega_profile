@@ -45,9 +45,12 @@ dependencies:
   - layout_plugin
   - page_manager
   - page_manager_ui
-  #- panelizer
+  - panelizer
   - panels
   - panels_ipe
+  - content_moderation
+  - outside_in
+  - inline_form_errors
 themes:
   - omega
   - seven
