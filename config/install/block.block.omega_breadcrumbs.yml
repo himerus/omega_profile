@@ -10,7 +10,7 @@ _core:
   default_config_hash: gINCEt1jYcdcQpd2kwUpWUZBzb6EL7JBzDATtTGDP0A
 id: omega_breadcrumbs
 theme: omega
-region: highighted
+region: highlighted
 weight: 0
 provider: null
 plugin: system_breadcrumb_block
