@@ -44,7 +44,7 @@ dependencies:
   - admin_toolbar_tools
   - layout_plugin
   - content_moderation
-  - paragaphs
+  - paragraphs
   # - outside_in
   - inline_form_errors
 themes:
