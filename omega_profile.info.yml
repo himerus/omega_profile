@@ -43,12 +43,8 @@ dependencies:
   - admin_toolbar
   - admin_toolbar_tools
   - layout_plugin
-  - page_manager
-  - page_manager_ui
-  - panelizer
-  - panels
-  - panels_ipe
   - content_moderation
+  - paragaphs
   # - outside_in
   - inline_form_errors
 themes:
