@@ -1,0 +1,23 @@
+{
+  "name": "drupal/omega_profile",
+  "type": "drupal-profile",
+  "description": "Omega Development Profile.",
+  "keywords": ["install profile", "drupal", "omega"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "homepage": "https://www.drupal.org/project/omega_profile",
+  "support": {
+    "issues": "https://drupal.org/project/issues/omega_profile",
+    "source": "https://www.drupal.org/project/omega_profile"
+  },
+  "authors": [
+    {
+      "name": "Jake Strawn",
+      "homepage": "http://drupal.org/u/himerus",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+
+  }
+}
