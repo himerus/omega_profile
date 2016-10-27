@@ -45,6 +45,8 @@ dependencies:
   - layout_plugin
   - content_moderation
   - paragraphs
+  - features
+  - features_ui
   # - outside_in
   - inline_form_errors
 themes:
